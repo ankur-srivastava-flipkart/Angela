@@ -21,3 +21,8 @@ Initial Design -
  5. Do the pi to remote interfacing and control the car motion.
  6. Have a audio interface in pi and listen to voice. Probably use google assistant API for voice recognition. 
  7. Execute the commands.
+
+
+Found some related links -
+
+http://www.wikihow.com/Build-a-Robot-Car
